@@ -1,0 +1,58 @@
+Year,No. of startups by year,States,2016,2017,2018,2019,2020,2021,2022,count_statewise,Industry,count_industrywise
+2016,452,Andaman and Nicobar Islands,NA,1,2,8,5,13,9,38,Advertising,529
+2017,5147,Andhra Pradesh,4,97,158,174,231,296,340,1300,Aeronautics Aerospace and Defence,585
+2018,8689,Arunachal Pradesh,NA,NA,2,2,NA,4,8,16,Agriculture,3074
+2019,11328,Assam,9,34,67,67,119,187,245,728,AI,1323
+2020,14534,Bihar,1,46,145,154,258,390,469,1463,Airport Operations,6
+2021,20089,Chandigarh,8,21,25,39,53,69,73,288,Analytics,537
+2022,23773,Chhattisgarh,11,56,118,158,153,165,210,871,Animation,67
+,,Dadra and Nagar Haveli and Daman and Diu,NA,4,1,3,5,12,12,37,AR VR (Augmented + Virtual Reality),368
+,,Delhi,62,713,1147,1371,1765,2178,2352,9588,Architecture Interior Design,369
+,,Goa,2,19,43,41,67,80,99,351,Art & Photography,217
+,,Gujarat,24,278,434,591,878,1709,1963,5877,Automotive,1260
+,,Haryana,25,253,474,694,806,1060,1199,4511,Biotechnology,139
+,,Himachal Pradesh,NA,9,16,28,41,56,103,253,Chemicals,519
+,,Jammu and Kashmir,2,13,43,37,64,132,159,450,Computer Vision,200
+,,Jharkhand,2,35,85,88,163,191,208,772,Construction,2337
+,,Karnataka,58,828,1172,1659,1729,2141,2317,9904,Dating Matrimonial,54
+,,Kerala,24,158,320,647,699,919,997,3764,Design,510
+,,Ladakh,NA,NA,NA,NA,1,NA,4,5,Education,4457
+,,Lakshadweep,NA,NA,NA,NA,1,NA,NA,1,Enterprise Software,1329
+,,Madhya Pradesh,7,101,287,327,423,557,813,2515,Events,278
+,,Maharashtra,86,1047,1607,2118,2671,3703,4339,15571,Fashion,801
+,,Manipur,NA,3,7,6,12,37,30,95,Finance Technology,2094
+,,Meghalaya,NA,NA,2,5,NA,9,10,26,Food & Beverages,3055
+,,Mizoram,NA,NA,2,1,1,2,6,12,Green Technology,1582
+,,Nagaland,1,4,2,2,5,7,7,28,Healthcare & Lifesciences,6191
+,,Odisha,4,105,163,184,277,389,400,1522,House-Hold Services,451
+,,Puducherry,NA,3,15,10,13,17,29,87,Human Resources,1268
+,,Punjab,7,28,63,92,146,240,263,839,Indic Language Startups,166
+,,Rajasthan,13,137,241,349,493,619,879,2731,Internet of Things,1229
+,,Sikkim,NA,1,NA,2,1,3,2,9,IT Services,8374
+,,Tamil Nadu,43,252,448,602,755,1103,1501,4704,Logistics,211
+,,Telangana,20,303,496,592,798,980,1237,4426,Marketing,1390
+,,Tripura,NA,NA,2,7,23,11,26,69,Media & Entertainment,1069
+,,Uttar Pradesh,27,385,764,873,1370,1966,2334,7719,Nanotechnology,114
+,,Uttarakhand,4,43,69,97,114,162,214,703,Non- Renewable Energy,1324
+,,West Bengal,8,170,269,300,394,682,916,2739,Not Specified,1297
+,,,,,,,,,,,Other Specialty Retailers,468
+,,,,,,,,,,,Others,1373
+,,,,,,,,,,,Passenger Experience,5
+,,,,,,,,,,,Pets & Animals,164
+,,,,,,,,,,,Professional & Commercial Services,3331
+,,,,,,,,,,,Real Estate,533
+,,,,,,,,,,,Renewable Energy,1775
+,,,,,,,,,,,Retail,1611
+,,,,,,,,,,,Robotics,390
+,,,,,,,,,,,Safety,209
+,,,,,,,,,,,Security Solutions,696
+,,,,,,,,,,,Social Impact,446
+,,,,,,,,,,,Social Network,536
+,,,,,,,,,,,Sports,326
+,,,,,,,,,,,Technology Hardware,2070
+,,,,,,,,,,,Telecommunication & Networking,649
+,,,,,,,,,,,Textiles & Apparel,875
+,,,,,,,,,,,Toys and Games,103
+,,,,,,,,,,,Transportation & Storage,1127
+,,,,,,,,,,,Travel & Tourism,1051
+,,,,,,,,,,,Waste Management,298
